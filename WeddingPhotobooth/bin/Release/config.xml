@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImageFolder_Default>C:\Users\bvtv\source\repos\WeddingPhotobooth\WeddingPhotobooth\bin\Release\Default</ImageFolder_Default>
+  <ImageFolder_Keep>C:\Users\bvtv\source\repos\WeddingPhotobooth\WeddingPhotobooth\bin\Release\Keep</ImageFolder_Keep>
+  <ImageFolder_Deleted>C:\Users\bvtv\source\repos\WeddingPhotobooth\WeddingPhotobooth\bin\Release\Delete</ImageFolder_Deleted>
+  <SerialComPort>COM9</SerialComPort>
+  <SerialBaudRate>9600</SerialBaudRate>
+</Config>
